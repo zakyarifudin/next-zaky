@@ -7,10 +7,23 @@ body {
 }
 
 a {
-  color: inherit;
+  // color: inherit;
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
 }
+
+// $mobile: 600px;
+
+// @media (max-width: $mobile) {
+//   h1,
+//   h2,
+//   p {
+//     color: #ffffff;
+//   }
+//   code {
+//     color: #000000;
+//   }
+// }
